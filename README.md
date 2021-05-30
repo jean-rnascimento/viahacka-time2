@@ -13,11 +13,15 @@ Criar um programa de recompensa para os sellers e uma ferramenta para sugerir ao
 
   -> -> -> Os indicadores serão acumulados mensalmente e divididos da seguinte forma
 
+  -> -> -> -> Qtde vendida: Soma de itens vendas   
+  
+  -> -> -> -> Sortimento (Mix): Soma de itens distintos vendidos   
+
   -> -> -> -> Faturamento: Soma do valor das vendas 
 
-  -> -> -> -> Tempo de entrega: Data de Entrega – Data de Aprovação da venda 
+  -> -> -> -> Tempo de entrega: Quanto menor melhor
 
-  -> -> -> -> Resultados de NPS 
+  -> -> -> -> Resultados de NPS: Quanto mais bem avaliado melhor 
         
   -> Sugestão de ações para aumento do Score 
   
